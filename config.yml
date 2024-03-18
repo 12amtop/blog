@@ -1,4 +1,4 @@
-baseURL: "https://12am.top"
+baseURL: "https://12am.fun"
 languageCode: zh
 title: AM
 theme: PaperMod
@@ -19,18 +19,18 @@ params:
 
 menu:
   main:
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 20
-    # - identifier: archives
-    #   name: archives
-    #   url: /archives/
-    #   weight: 30
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: archives
+      url: /archives/
+      weight: 30
     - identifier: about
       name: 关于
       url: /about/

@@ -1,0 +1,37 @@
+baseURL: "https://12am.top"
+languageCode: zh
+title: AM
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "欢迎"
+    content: "keep moving"
+  socialIcons:
+    - name: github
+      url: "https://github.com/"
+  showBreadCrumbs: true
+  showReadTime: true
+  # showShareButtons: true
+  showPostNavLinks: true
+  # hideFooter
+  hideFooter: true
+
+menu:
+  main:
+    # - identifier: categories
+    #   name: categories
+    #   url: /categories/
+    #   weight: 10
+    # - identifier: tags
+    #   name: tags
+    #   url: /tags/
+    #   weight: 20
+    # - identifier: archives
+    #   name: archives
+    #   url: /archives/
+    #   weight: 30
+    - identifier: about
+      name: 关于
+      url: /about/
+      weight: 40

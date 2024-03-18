@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Js on AM</title>
+    <link>http://localhost:1313/tags/js/</link>
+    <description>Recent content in Js on AM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <lastBuildDate>Thu, 22 Dec 2022 08:39:46 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://localhost:1313/posts/second/</link>
+      <pubDate>Thu, 22 Dec 2022 08:39:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/second/</guid>
+      <description>this is a very simple example </description>
+    </item>
+  </channel>
+</rss>
